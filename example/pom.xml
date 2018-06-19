@@ -165,9 +165,9 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	<distribution management>
+	<distributionManagement>
 		<Id>deployment</Id>
 		<artifactId>snapshot1</artifactId>
 		<url>http://localhost:8081/repository/snapshot1/</url>
-	</distribution management>
+	</distributionManagement>
 </project>
